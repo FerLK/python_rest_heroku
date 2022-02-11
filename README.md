@@ -1,6 +1,7 @@
 # python_rest_heroku
 
 CRUD simulando lojas e produtos usando Flask e Python. Ele está online e pode ser testado em https://python-rest-1.herokuapp.com/
+
 End Points:
 
 GET
