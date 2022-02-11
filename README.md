@@ -4,21 +4,21 @@ CRUD simulando lojas e produtos usando Flask e Python. Ele está online e pode s
 End Points:
 
 GET
-/items
-/item/<name>
-/stores
-/store/<name>
+-/items
+-/item/name
+-/stores
+-/store/name
 
 POST
-/auth
-/register
-/store/<name>
-/item<name>
+-/auth
+-/register
+-/store/name
+-/itemname
 
 PUT
-/item/<name>
+-/item/name
 
 DEL
-/item/<name>
-/store/<name>
+-/item/name
+-/store/name
 
