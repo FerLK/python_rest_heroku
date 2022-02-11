@@ -13,7 +13,7 @@ POST
 -/auth
 -/register
 -/store/name
--/itemname
+-/item/name
 
 PUT
 -/item/name
